@@ -1,0 +1,4 @@
+DUCKDB_DATABASE_PATH=":memory:"
+DBT_ROOT_PATH=/usr/local/airflow/dbt
+AZURE_STORAGE_ACCOUNT_NAME=storchestrationdemo
+AZURE_STORAGE_SAS_TOKEN=
